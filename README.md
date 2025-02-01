@@ -1,3 +1,5 @@
+\#README
+
 The files included in this repository plot Figure 6 from the publication
 [“Characterization of differences in immune responses during bolus and
 continuous infusion endotoxin challenges using mathematical modeling” by
